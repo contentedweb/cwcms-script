@@ -1,2 +1,2 @@
 # cwcms
-Content management scripts for contentedweb
+Script for generating GitHub Pages site from markdown files based on cwcms-template.
